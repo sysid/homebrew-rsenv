@@ -1,8 +1,8 @@
 class Rsenv < Formula
   desc "Unified development environment manager: hierarchical env vars, file guarding, and swap-in/out"
   homepage "https://github.com/sysid/rs-env"
-  url "https://github.com/sysid/rs-env/archive/refs/tags/v5.3.1.tar.gz"
-  sha256 "8f0888503dbcf778a727a31b0ccd9f741e5a7027490c0225bdb64136e961caa7"
+  url "https://github.com/sysid/rs-env/archive/refs/tags/v5.4.0.tar.gz"
+  sha256 "c6a33b450d5bc6d17a3042a72513760d5d2a087a1d87ff925d068007a53635e9"
   license "BSD-3-Clause"
 
   depends_on "rust" => :build
